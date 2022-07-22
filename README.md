@@ -2,7 +2,7 @@
 
 Patika.dev HTML eğitimi kapsamında yapılan ikinci ödev.
 ---
-![img1](https://imgyukle.com/i/Vt53ds)
+![img1](https://i.imgur.com/ORkBOah.png)
 ---
 ## Contributing
 ---
